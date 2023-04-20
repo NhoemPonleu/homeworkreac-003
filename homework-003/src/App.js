@@ -7,7 +7,7 @@ function App() {
   return (
     <div >
       <div className='text'>
-        <h1>Lim Dane From Class Dev ops</h1>
+        <h1>Sket Reload Page</h1>
       </div>
       <Products/>
     </div>
